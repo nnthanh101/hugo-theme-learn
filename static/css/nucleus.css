@@ -510,35 +510,35 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility; }
 
 h1 {
-  font-size: 3.25rem; }
+  font-size: 2.5rem; }
 
 h2 {
-  font-size: 2.55rem; }
+  font-size: 2rem; }
 
 h3 {
-  font-size: 2.15rem; }
-
-h4 {
   font-size: 1.8rem; }
 
+h4 {
+  font-size: 1.5rem; }
+
 h5 {
-  font-size: 1.4rem; }
+  font-size: 1.2rem; }
 
 h6 {
   font-size: 0.9rem; }
 
 p {
-  margin: 1.7rem 0; }
+  margin: 1.5rem 0; }
 
 ul, ol {
-  margin-top: 1.7rem;
-  margin-bottom: 1.7rem; }
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem; }
   ul ul, ul ol, ol ul, ol ol {
     margin-top: 0;
     margin-bottom: 0; }
 
 blockquote {
-  margin: 1.7rem 0;
+  margin: 1.5rem 0;
   padding-left: 0.85rem; }
 
 cite {
@@ -548,7 +548,7 @@ cite {
     content: "\2014 \0020"; }
 
 pre {
-  margin: 1.7rem 0;
+  margin: 1.5rem 0;
   padding: 0.938rem; }
 
 code {
@@ -561,12 +561,12 @@ hr {
   border-left: none;
   border-right: none;
   border-top: none;
-  margin: 1.7rem 0; }
+  margin: 1.5rem 0; }
 
 fieldset {
   border: 0;
   padding: 0.938rem;
-  margin: 0 0 1.7rem 0; }
+  margin: 0 0 1.5rem 0; }
 
 input,
 label,
@@ -604,7 +604,7 @@ input[type="file"] {
 select {
   width: auto;
   max-width: 100%;
-  margin-bottom: 1.7rem; }
+  margin-bottom: 1.5rem; }
 
 button,
 input[type="submit"] {
